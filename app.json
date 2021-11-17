@@ -1,0 +1,12 @@
+{
+  "name": "Roster",
+  "displayName": "Roster",
+  "expo": {
+    "name": "Roster",
+    "slug": "Roster",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
